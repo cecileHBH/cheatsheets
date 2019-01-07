@@ -31,8 +31,11 @@ Source — https://www.datacamp.com/community/blog/scikit-learn-cheat-sheet
 Neural Networks Zoo
 Source — http://www.asimovinstitute.org/neural-network-zoo/
 
+ggplot2
+Source — https://www.rstudio.com/wp-content/uploads/2015/03/ggplot2-cheatsheet.pdf
 
+PySpark
+Source — https://www.datacamp.com/community/blog/pyspark-cheat-sheet-python#gs.L=J1zxQ
 
--- 
-Cécile Hui Bon Hoa
-
+R Studio (dplyr and tidyr)
+Source — https://www.rstudio.com/wp-content/uploads/2015/02/data-wrangling-cheatsheet.pdf
