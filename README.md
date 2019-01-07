@@ -39,3 +39,6 @@ Source — https://www.datacamp.com/community/blog/pyspark-cheat-sheet-pytho
 
 R Studio (dplyr and tidyr)
 Source — https://www.rstudio.com/wp-content/uploads/2015/02/data-wrangling-cheatsheet.pdf
+
+Vue
+Source - https://www.vuemastery.com/
