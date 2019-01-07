@@ -1,7 +1,7 @@
 # cheatsheets
 cheat sheets
 
-A list of cheat sheets
+A repository listing cheat sheets in several technologies
 
 Sources : 
 
