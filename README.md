@@ -58,3 +58,8 @@ Source - https://www.vuemastery.com/
 La data visualisation nous permet de créer un visuel qui transmet de manière efficace le sens d’une donnée. Ce visuel doit prendre en compte la donnée mais également la perception humaine. Parmi les 3 modes de visualisation (interactif, présentation, storytelling), celui que nous rencontrons le plus fréquemment est la présentation.
 
 C’est pour ce mode de visualisation que cette RefCard vous aidera à choisir le type de visuel le plus adapté à vos données afin de transmettre clairement votre message.
+
+**AWS**
+
+Athena
+Source - https://blog.openbridge.com/what-is-aws-athena-interactive-query-service-7eb0e08b8316
