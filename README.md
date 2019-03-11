@@ -9,6 +9,10 @@ https://medium.com/@kailashahirwar/essential-cheat-sheets-for-machine-learning-a
 
 Learning machine learning and deep learning is difficult for newbies. As well as deep learning libraries are difficult to understand. I am creating a repository on Github(cheatsheets-ai) with cheat sheets which I collected from different sources. Do visit it and contribute cheat sheets if you have any. Thanks.
 
+**Cloud**
+The cloud services technology cheat sheet 2.0
+Source - https://www.basvankaam.com/the-ultimate-collection/
+
 **Python**
 
 Keras
